@@ -1,11 +1,12 @@
-<p>Seja bem vindo! Eu sou Gabriel, apaixonado pela natureza, pelo xadrez e bicicletas;<br>
+<h4>Seja bem vindo! Eu sou Gabriel, apaixonado pela natureza, pelo xadrez e bicicletas;<br>
 Também amo os desafios e tenho me dedicado ao mais novo que é o mundo do desenvolvimento Front End;<br>
 Me identifiquei com o universo de possibilidades que se abrem a cada nova posição alcançada, assim como no xadrez;<br>
-E descobri uma nova paixão!;</p>
+E descobri uma nova paixão!;</h4>
 
 <hr>
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-NaturalCode&show_icons=true&theme=dark&hide=prs,issues,contribs&rank_icon=github) <br>
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-NaturalCode&show_icons=true&theme=dark&hide=prs,issues,contribs&rank_icon=github)  
+<img align="right" alt="gif-happy-code" width="300" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-NaturalCode&hide_progress=false&theme=dark)
 
 <div style="display: inline_block"><br>
@@ -21,5 +22,3 @@ E descobri uma nova paixão!;</p>
   <a href = "mailto:gabriel.viana2292@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-<img align="right" alt="gif-geometria-sagrada" height="300" width="300" src="https://64.media.tumblr.com/3b4491d5995c6311c4ec1b545c036e15/tumblr_psjuzqifo01ug7svjo1_500.gif">
