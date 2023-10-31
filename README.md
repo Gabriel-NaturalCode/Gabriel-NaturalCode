@@ -5,7 +5,7 @@ E descobri uma nova paixão!;</p>
 
 <hr>
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-NaturalCode&show_icons=true&theme=dark&hide=prs,issues,contribs)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-NaturalCode&show_icons=true&theme=dark&hide=prs,issues,contribs&rank_icon=github) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-NaturalCode&hide_progress=false&theme=dark)
 
 <div style="display: inline_block"><br>
@@ -21,3 +21,5 @@ E descobri uma nova paixão!;</p>
   <a href = "mailto:gabriel.viana2292@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+<img align="right" alt="gif-geometria-sagrada" height="300" width="300" src="https://64.media.tumblr.com/3b4491d5995c6311c4ec1b545c036e15/tumblr_psjuzqifo01ug7svjo1_500.gif">
