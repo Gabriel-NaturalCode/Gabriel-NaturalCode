@@ -1,7 +1,7 @@
-<h3>Seja bem vindo! Eu sou Gabriel, apaixonado pela natureza, pelo xadrez e bicicletas;<br>
+<h4>Seja bem vindo! Eu sou Gabriel, apaixonado pela natureza, pelo xadrez e bicicletas;<br>
 Também amo desafios e tenho me dedicado ao mais novo que é o mundo do desenvolvimento Front End;<br>
 Me identifiquei com o universo de possibilidades que se abrem a cada nova posição alcançada, assim como no xadrez;<br>
-E descobri uma nova paixão!;</h3>
+E descobri uma nova paixão!;</h4>
 
 <hr>
 
@@ -18,7 +18,6 @@ E descobri uma nova paixão!;</h3>
 <hr>
 
 <div>
-  <a href="www.linkedin.com/in/gabrielnatural" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabriel.viana2292@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-viana-247156189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/gabal01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
