@@ -1,7 +1,7 @@
-<h4>Seja bem vindo! Eu sou Gabriel, apaixonado pela natureza, pelo xadrez e bicicletas;<br>
-Também amo os desafios e tenho me dedicado ao mais novo que é o mundo do desenvolvimento Front End;<br>
+<h3>Seja bem vindo! Eu sou Gabriel, apaixonado pela natureza, pelo xadrez e bicicletas;<br>
+Também amo desafios e tenho me dedicado ao mais novo que é o mundo do desenvolvimento Front End;<br>
 Me identifiquei com o universo de possibilidades que se abrem a cada nova posição alcançada, assim como no xadrez;<br>
-E descobri uma nova paixão!;</h4>
+E descobri uma nova paixão!;</h3>
 
 <hr>
 
