@@ -6,13 +6,13 @@ E descobri uma nova paixão!;</h4>
 <hr>
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-NaturalCode&show_icons=true&theme=dark&hide=prs,issues,contribs&rank_icon=github)  
-<img align="right" alt="gif-happy-code" width="300" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
+<img align="right" alt="gif-happy-code" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-NaturalCode&hide_progress=false&theme=dark)
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 <hr>
